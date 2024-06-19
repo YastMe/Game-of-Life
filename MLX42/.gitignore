@@ -57,10 +57,10 @@ temp/
 .vscode/
 lib/glfw/
 .DS_Store
+CMakeCache.txt
 
 # Special shader files
 mlx_*_shader.c
-build/
 main.c
 test
 
